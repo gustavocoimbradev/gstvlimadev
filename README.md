@@ -1,7 +1,7 @@
 
 <h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, I'm Gustavo Lima</h1>
 
-- 🔥 Full Stack Web Developer 
+- 🔥 Full Stack Web and Mobile Developer 
 
 - 😁 I’m currently open to work
 
