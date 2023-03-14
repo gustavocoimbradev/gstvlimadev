@@ -5,7 +5,7 @@
 
 - 😁 I’m currently open to work
 
-- 💬 Ask me about **PHP, JavaScript, HTML, CSS, Bootstrap, jQuery, React, SQL**
+- 💬 Ask me about **React Native, React JS, HTML, CSS, Javascript, jQuery, Bootstrap, MongoDB, MySQL, SQL Server**
 
 
 ## Contact
