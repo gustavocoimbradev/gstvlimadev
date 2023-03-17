@@ -13,10 +13,10 @@
 <p align="left" style="background:yellow">
 
 
-<a href="https://www.linkedin.com/in/coimbragustavo/" target="_blank">
+<a href="https://www.linkedin.com/in/gustavocoimbradev/" target="_blank">
   <img align="center" src="https://img.shields.io/badge/-gustavocoimbradev-05122A?style=flat&logo=linkedin" alt="linkedin"/>
 </a>
-<a href="https://www.instagram.com/gsttvlima/" target="_blank">
+<a href="https://www.instagram.com/gustavocoimbradev/" target="_blank">
  <img align="center" src="https://img.shields.io/badge/-gustavocoimbradev-05122A?style=flat&logo=instagram" alt="instagram"/>
 </a>
 
